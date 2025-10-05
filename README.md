@@ -19,4 +19,4 @@
 - 🤖 [AI Chatbot (coming soon)](https://github.com/yourusername/chatbot)  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?ahmedkhanahmedkhan7006-commits=&show_icons=true&theme=radical)
