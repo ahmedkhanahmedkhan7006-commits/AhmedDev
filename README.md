@@ -14,9 +14,9 @@
 - **Other:** Git, GitHub, Jupyter Notebook  
 
 ## 📂 Featured Projects
-- 🧮 [Calculator App](https://github.com/yourusername/calculator)  
-- 📊 [Student Marks Report System](https://github.com/yourusername/student-marks)  
-- 🤖 [AI Chatbot (coming soon)](https://github.com/yourusername/chatbot)  
+- 🧮 [Calculator App](https://github.com/ahmedkhanahmedkhan7006-commits/calculator)  
+- 📊 [Student Marks Report System](https://github.com/ahmedkhanahmedkhan7006-commits/student-marks)  
+- 🤖 [AI Chatbot (coming soon)](https://github.com/ahmedkhanahmedkhan7006-commits/chatbot)  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ahmedkhanahmedkhan7006-commits=&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedkhanahmedkhan7006-commits&show_icons=true&theme=radical)
